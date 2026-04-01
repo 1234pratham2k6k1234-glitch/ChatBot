@@ -53,10 +53,4 @@ streamlit run app.py
 * llama-3.1-8b-instant
 * openai/gpt-oss-20b
 
-## 📷 Demo
 
-(Add screenshot here)
-
-## 📄 License
-
-MIT License
